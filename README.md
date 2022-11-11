@@ -1,4 +1,4 @@
-This website was updated on November 10, 2022. Please visit google scholar for a more complete and up-to-date list of my publications: https://scholar.google.com/citations?hl=en&user=j1FHEZIAAAAJ&view_op=list_works&sortby=pubdate.
+This website was updated on November 10, 2022. Please visit google scholar for a more complete and up-to-date <a href="https://scholar.google.com/citations?hl=en&user=j1FHEZIAAAAJ&view_op=list_works&sortby=pubdate"> list of my publications</a>.
 
 I am a physics postdoc at Fermilab in the Superconducting Quantum Materials and Systems Division (<a href="https://sqmscenter.fnal.gov/">SQMS</a>). My current focus is on using superconducting cavities and other Quantum Information Science (QIS) technologies to search for wavelike dark matter candidates such as axions and dark photons. I am also interested in using my expertise in RF electronics and microwave engineering to search for any interesting physics beyond the Standard Model. 
 
